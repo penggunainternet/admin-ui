@@ -27,7 +27,7 @@ const forgotPass = () => {
         </Button>
       </div>
       <Link to="/login" className="text-gray-03 text-sm font-semibold mt-6">
-        Back to login
+        Back to Login
       </Link>
     </div>
   );
