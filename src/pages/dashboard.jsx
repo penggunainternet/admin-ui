@@ -7,27 +7,27 @@ const DashboardPage = () => {
       {/* top content start*/}
       <div className="mb-4 sm:flex sm:gap-6">
         <div className="mb-4 sm:w-1/3">
-          <Card />
+          <Card title="title">Description</Card>
         </div>
         <div className="mb-4 sm:w-1/3">
-          <Card />
+          <Card title="title">Description</Card>
         </div>
         <div className="mb-4 sm:w-1/3">
-          <Card />
+          <Card title="title">Description</Card>
         </div>
       </div>
       {/* top content end*/}
       {/* bottom content start*/}
       <div className="sm:flex sm:gap-6">
         <div className="mb-4 sm:w-1/3">
-          <Card />
+          <Card title="title">Description</Card>
         </div>
         <div className="sm:w-2/3">
           <div className="mb-8">
-            <Card />
+            <Card title="title">Description</Card>
           </div>
           <div className="mb-4">
-            <Card />
+            <Card title="title">Description</Card>
           </div>
         </div>
       </div>
